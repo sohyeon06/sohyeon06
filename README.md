@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> 🥔🎀👀👃👄🥔 안녕하세요. <br>박소현입니다.</p> -->
 
-<h3 align="left">🥔🎀👀👃👄🥔 </h3>
+<!-- <h3 align="left">🥔🎀👀👃👄🥔 </h3>
 <p align="left">안녕하세요. <br> 박소현입니다.  :</p>
 
 
@@ -84,4 +84,34 @@ Here are some ideas to get you started:
 <hr>
 
 <h3 align="left">👄 ... 👄</h3>
-<p align="left">...<br>...</p>
+<p align="left">...<br>...</p> -->
+
+
+
+
+<!-- 볼드체 처리하기기 -->
+
+
+
+<h3 align="left">🥔🎀👀👃👄🥔 </h3>
+<p align="left"><strong>안녕하세요. <br> 박소현입니다.</strong></p>
+
+<hr>
+
+<h3 align="left">🎀 <strong>ABOUT</strong> 🎀</h3>
+<p align="left"><strong>25.01 ~ 25.12  :   SSAFY <br> 25.12 ~ 99.99  :</strong></p>
+
+<hr>
+
+<h3 align="left">👀 <strong>TECH</strong> 👀</h3>
+<p align="left"><strong>pypyy</strong></p>
+
+<hr>
+
+<h3 align="left">👃 <strong>CONTACT</strong> 👃</h3>
+<p align="left"><strong>mail : ddomaaddo@gmail.com<br>num : 000-0000-0000</strong></p>
+
+<hr>
+
+<h3 align="left">👄 <strong>...</strong> 👄</h3>
+<p align="left"><strong>...<br>...</strong></p>
