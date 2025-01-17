@@ -57,19 +57,19 @@ Here are some ideas to get you started:
 
 <!-- 항목명 볼드체, 크기 키우기  -->
 
-<p align="left">안녕하세요. <br>박소현입니다.</p>
+<p align="left"> 🥔🎀👀👃👄🥔 안녕하세요. <br>박소현입니다.</p>
 
 <hr>
 
-<h3 align="left">ABOUT</h3>
+<h3 align="left">🥔🎀👀👃👄🥔 ABOUT</h3>
 <p align="left">25.01 ~ 25.12  :   SSAFY <br> 25.12 ~ 99.99  :</p>
 
 <hr>
 
-<h3 align="left">TECH</h3>
+<h3 align="left">🥔🎀👀👃👄🥔 TECH</h3>
 <p align="left">pypyy</p>
 
 <hr>
 
-<h3 align="left">CONTACT</h3>
+<h3 align="left">🥔🎀👀👃👄🥔 CONTACT</h3>
 <p align="left">mail : ddomaaddo@gmail.com<br>num : 000-0000-0000</p>
