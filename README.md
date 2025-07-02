@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">🎀 ABOUT 🎀</h3>
-<p align="left">25.01 ~ 25.12  :   SSAFY <br> 25.12 ~ 99.99  :</p>
+<p align="left">25.01 ~ 25.06  :   SSAFY <br> 25.12 ~ 99.99  :</p>
 
 <hr>
 
